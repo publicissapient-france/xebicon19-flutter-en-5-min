@@ -9,11 +9,12 @@ slide-transition: true
 ![right](assets/flutter-logo.png)
 
 [.header: #000, alignment(left), line-height(1.0), text-scale(1.4), Roboto Black]
+
 [.slidenumbers: false]
+
 [.footer-style: #000, alignment(left), text-scale(1.5)]
 
 # Benjamin Lacroix
-
 
 ![left filtered](assets/benjamin-lacroix.jpg)
 
@@ -26,11 +27,18 @@ Développeur *Android* (et Flutter) à *Xebia* depuis 6 ans
 ### Construire des apps *rapides*, *modernes* et *jolies*
 
 * Framework `react-style` 
+* Dart
 * *Moteur 2D*
 * Bibliothèque de *widgets*
 * Outillage
 
 ![right 60%](./assets/flutter-all-logo.png)
+
+^
+- Les composants sont mis à jour en fonction de l'écran, des événements de façon automatique, si quelque chose change, le composant change.
+- Dart : VM & langage orienté objet, garbage collecté
+- Skia (bibliothèque de rendu 2D)
+- IDE, format de code, hot reload, SDK
 
 # How *React Native*
 
@@ -50,15 +58,18 @@ Développeur *Android* (et Flutter) à *Xebia* depuis 6 ans
 
 # Widget
 
-[.hide-footer]
-
 ![right 35%](./assets/tt-list.png)
 
 [.code-highlight: 1]
+
 [.code-highlight: 6]
+
 [.code-highlight: 7]
+
 [.code-highlight: 8-10]
+
 [.code-highlight: 11-16]
+
 [.code-highlight: all]
 
 ```dart
@@ -82,6 +93,8 @@ class TechTrendsLibrary extends StatelessWidget {
 }
 ```
 
+[.hide-footer]
+
 # IDE
 
 * *Google* supporte
@@ -94,8 +107,11 @@ class TechTrendsLibrary extends StatelessWidget {
 # Tests
 
 [.code-highlight: 3]
+
 [.code-highlight: 4]
+
 [.code-highlight: 8]
+
 [.code-highlight: all]
 
 ```dart
@@ -139,7 +155,11 @@ void main() {
 ![right filtered](./assets/questions.png)
 
 [.background-color: #e94552]
-[.text: #ffffff, Roboto Light]
-[.header: #ffffff, alignment(left), text-scale(1.1), Roboto Black]
-[.footer-style: #ffffff, alignment(left), text-scale(1.5), Roboto Light]
-[.footer: XEBICON**19**]
+
+[.text: #fff, Roboto Light]
+
+[.header: #fff, alignment(left), text-scale(1.1), Roboto Black]
+
+[.footer-style: #fff, alignment(left), text-scale(1.5), Roboto Light]
+
+[.slidenumber-style: #fff]
