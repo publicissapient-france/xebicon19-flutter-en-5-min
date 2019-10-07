@@ -12,7 +12,7 @@ slide-transition: true
 
 [.slidenumbers: false]
 
-[.footer-style: #000, alignment(left), text-scale(1.5)]
+[.footer-style: #000, alignment(left), text-scale(1.6)]
 
 # Benjamin Lacroix
 
@@ -27,8 +27,8 @@ Développeur *Android* (et Flutter) à *Xebia* depuis 6 ans
 ### Construire des apps *rapides*, *modernes* et *jolies*
 
 * Framework `react-style` 
-* Dart
-* *Moteur 2D*
+* Dart (Google)
+* *Moteur 2D* (Skia)
 * Bibliothèque de *widgets*
 * Outillage
 
@@ -93,8 +93,6 @@ class TechTrendsLibrary extends StatelessWidget {
 }
 ```
 
-[.hide-footer]
-
 # IDE
 
 * *Google* supporte
@@ -145,7 +143,7 @@ void main() {
 * Développements *rapides*
 * Outillage *avancé*
 
-# <br/><br/><br/><br/><br/><br/><br/><br/>Q & A
+# <br/><br/><br/><br/><br/><br/><br/>
 
 @XebiConFr
 \#XebiCon19
@@ -158,8 +156,10 @@ void main() {
 
 [.text: #fff, Roboto Light]
 
+[.text-emphasis: #fff, Roboto Black]
+
 [.header: #fff, alignment(left), text-scale(1.1), Roboto Black]
 
-[.footer-style: #fff, alignment(left), text-scale(1.5), Roboto Light]
+[.footer-style: #fff, alignment(left), text-scale(1.6), Roboto Light]
 
 [.slidenumber-style: #fff]
