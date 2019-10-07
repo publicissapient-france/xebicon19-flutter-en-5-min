@@ -117,7 +117,7 @@ class TechTrendsLibrary extends StatelessWidget {
 ```dart
 void main() {
   final presenter = CartPresenter();
-  group('get best effor', () {
+  group('get best offer', () {
     test('percent50 is best offer', () {
       final minus10 = Offer(OfferType.minus, 10, 0);
       final percent50 = Offer(OfferType.percentage, 50, 0);
