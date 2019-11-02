@@ -143,14 +143,14 @@ void main() {
 * Développements *rapides*
 * Outillage *avancé*
 
-# <br/><br/><br/><br/><br/><br/><br/>
+# <br/><br/><br/><br/><br/><br/><br/><br/>Flutter 🚀
 
 @XebiConFr
 \#XebiCon19
 
 ## Merci
 
-![right filtered](./assets/questions.png)
+![right](./assets/questions-qr.png)
 
 [.background-color: #e94552]
 
