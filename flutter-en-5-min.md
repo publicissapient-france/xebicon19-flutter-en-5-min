@@ -16,7 +16,7 @@ slide-transition: true
 
 # Benjamin Lacroix
 
-![left](assets/benjamin-lacroix.jpg)
+![left filtered](assets/benjamin-lacroix.jpg)
 
 Développeur *Android* (et Flutter) à *Xebia* depuis 6 ans
 
